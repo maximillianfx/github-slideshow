@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to LABBS!"
 ---
-![GoHorseTwo](https://ecchimustdie.files.wordpress.com/2014/11/aguarde-e-confie.jpg)
+![GoHorseTwo](https://i.ibb.co/vsrKPwB/aguarde-e-confie-resized.jpg)
 Use the left arrow to go back!
